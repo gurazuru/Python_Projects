@@ -1,6 +1,6 @@
 #Automate the Boring Stuff Chapter 5
 #inventory.py
-#updates inventory with new loot from the dragon
+#updates inventory with new loot from after killing the dragon
 stuff = {'gold coin': 42, 'rope': 1}
 
 def displayInventory(inventory):
