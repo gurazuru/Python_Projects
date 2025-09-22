@@ -6,7 +6,7 @@
 ###### A personal project that aims to increase work efficiency
 
 #### DQ Intro Fundamentals
-###### A collection of projects done based on Data Quest Pyton courses.
+###### A collection of projects done based on Data Quest Python courses.
 
 #### Code Abbey and Project Euler
 ###### A collection of solutions for the problems posed on the [*Code Abbey*](http://www.codeabbey.com/) and [*Project Euler*](https://projecteuler.net/) websites
